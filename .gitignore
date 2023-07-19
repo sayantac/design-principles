@@ -1,0 +1,8 @@
+/.classpath
+/.project
+.gradle
+.settings
+/bin
+/.DS_Store
+.vscode/
+target/
